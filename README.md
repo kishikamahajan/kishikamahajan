@@ -13,16 +13,6 @@ Feel free to explore the following projects/coursework below to get a better sen
 
 📈 [Non-Natural Causes of Death in Cook County](https://github.com/kishikamahajan/non_natural_deaths_cook_county): This project creates a multi-page dashboard to analyze non-natural deaths in Cook County, using data visualization and spatial analysis to highlight geographic disparities and inform targeted interventions.
 
-🏠 Finding comparable properties with LightGBM (June 2023): Developed a new feature, the "comparable finder," into the R package lightsnip which enables accurate identification of comparable properties crucial for assessing property values in Cook County. Read more here for a longer explanation of this project.
+⛪ [Churches in Goa, India](https://github.com/kishikamahajan/goa_churches_data): This project scrapes detailed information about Goa’s historic churches from [this website](https://goanchurches.info/) using a Python script and enriches the data by extracting precise geographic coordinates via Google APIs with an R script.
 
-🩻 Predicting Pneumonia using Chest X-Ray Images (May 2023): Working alongside three classmates, we used LeNet and Logistic Regression to predict pneumonia using chest X-Ray images with 99.4% recall accuracy, after implementing different image transformations in pytorch!
-
-📈 COVID-19 Online: How people interacted with government websites during the pandemic (March 2023): Working alongside three classmates, we built a complete data pipeline (from collection to visualization) to explore web traffic to HHS websites during the pandemic.
-
-📖 Scraper for Chicago Maps Archive (Feb 2023): In my role as digialization specialist for the University of Chicago Library System Special Collection's Department, I reconfigured data made publicly available by the Chicago History Museum to help process and digitize the maps for public use by University of Chicago Library's Preservation Departments.
-
-📓 CAPP Coursework (Aug 2022-Present): This repository gives a better sense of the programming assignments that I've completed through my coursework to-date that showcase my technical abilities. My code for each assignment listed is available upon request.
-
-📝 Publications (Aug 2018-Present): This repository has a list of my recent publications from my time as a researcher at the Urban Institute's Office of Race and Equity Research.
-
-For more information about any of the above, please feel free to explore my current resume, reach out via email or connect with me on LinkedIn. Looking forward to connecting!
+🦠 [Predicting Diseases in Tanzania](https://github.com/kishikamahajan/predicting_diseases_tanzania/tree/main): This project builds an ML model to predict disease cases at healthcare facilities using climate data from water sources, toilets, and waste management sites nearby. 
