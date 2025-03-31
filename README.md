@@ -9,7 +9,7 @@ Feel free to explore the following projects/coursework below to get a better sen
 
 ⚖️ [Predicting Recidivism Rates in California](https://github.com/kishikamahajan/compas_alt_risk_assessment_score): This project develops a stacking model (Random Forest + XGBoost) to predict recidivism, comparing its fairness and accuracy with the COMPAS risk assessment tool.
 
-🔌 Forecasting Electricity Usage (December 2023): Used time series modeling (Regression with ARIMA errors and ELS) to model and forecast monthly residential electricity usage in California. All code was written in R and all analysis is summarized in the final presentation deck.
+🦠 [Differential Impacts of COVID-19 in India](https://github.com/kishikamahajan/spatial_cluster_analysis_covid_death): This study analyzes district-level data in the Indo-Gangetic Plain, focusing on pollution, healthcare, and demographic factors using PCA and K-Medoids clustering.
 
 🐀 Predicting Neighborhood-Level Rat Activity in New York City (September 2023): Created a time series predictive model to forecast the volume of weekly rat-related 311 requests in each neighborhood, informing mitigation strategy for NYC Rat Czar.
 
