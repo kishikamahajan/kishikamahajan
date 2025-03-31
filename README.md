@@ -5,7 +5,7 @@ My name is Kishika Mahajan and I am a Public Policy student at the University of
 
 Feel free to explore the following projects/coursework below to get a better sense of my skills and interests:
 
-🏞️ [Commercialisation of National Parks in India]([https://github.com/kishikamahajan/commercialisation_national_park]): This project analyzes the impact of national park commercialization in India by exploring forest cover changes and economic activity in Jim Corbett and Pench Tiger Reserve using SHRUG data.
+🏞️ [Commercialisation of National Parks in India](https://github.com/kishikamahajan/commercialisation_national_park): This project analyzes the impact of national park commercialization in India by exploring forest cover changes and economic activity in Jim Corbett and Pench Tiger Reserve using SHRUG data.
 
 ☎️ 311 Requests in Chicago (December 2023): Created a simple web app which gives users a summary of the 311 requests in their Chicago neighborhood, built with Lambda Architecture principles using Apache's tech stack (HDFS, Hadoop, Hive, Spark, etc). The cluster that the app was built with is no longer active, so watch the video included to see the app in action!
 
