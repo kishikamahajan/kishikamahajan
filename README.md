@@ -11,7 +11,7 @@ Feel free to explore the following projects/coursework below to get a better sen
 
 🦠 [Differential Impacts of COVID-19 in India](https://github.com/kishikamahajan/spatial_cluster_analysis_covid_deaths): This study analyzes district-level data in the Indo-Gangetic Plain, focusing on pollution, healthcare, and demographic factors using PCA and K-Medoids clustering.
 
-🐀 Predicting Neighborhood-Level Rat Activity in New York City (September 2023): Created a time series predictive model to forecast the volume of weekly rat-related 311 requests in each neighborhood, informing mitigation strategy for NYC Rat Czar.
+📈 [Non-Natural Causes of Death in Cook County](https://github.com/kishikamahajan/non_natural_deaths_cook_county): This project creates a multi-page dashboard to analyze non-natural deaths in Cook County, using data visualization and spatial analysis to highlight geographic disparities and inform targeted interventions.
 
 🏠 Finding comparable properties with LightGBM (June 2023): Developed a new feature, the "comparable finder," into the R package lightsnip which enables accurate identification of comparable properties crucial for assessing property values in Cook County. Read more here for a longer explanation of this project.
 
