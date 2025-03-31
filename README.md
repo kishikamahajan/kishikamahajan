@@ -1,7 +1,7 @@
 Hi there 👋
 My name is Kishika Mahajan and I am a Public Policy student at the University of Chicago where I specialise in Data Analytics. During my time at UChicago, I gained a strong foundation in several programming languages, including Python, R and gained expertise in spatial data science. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishikamahajan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishikamahajan&exclude_repo=github-readme-stats,kishikamahajan.github.io&layout=compact)
 
 Feel free to explore the following projects/coursework below to get a better sense of my skills and interests:
 
