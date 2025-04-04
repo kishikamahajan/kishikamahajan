@@ -4,7 +4,6 @@ I am Kishika Mahajan and I am a Public Policy student at the University of Chica
 
 You can also visit my website: https://kishikamahajan.github.io/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishikamahajan&exclude_repo=github-readme-stats,kishikamahajan.github.io&layout=compact)
 
 Feel free to explore the following projects/coursework below to get a better sense of my skills and interests:
 
